@@ -11,3 +11,17 @@
     padding: 0 10vw;
     margin: auto;
 } */
+
+/* .carousel-indicators {
+    bottom: 10px; 
+  } */
+
+  .carousel-indicators button {
+    width: 0.8rem !important;
+    height: 0.8rem !important;
+    border-radius: 50% !important;
+  }
+
+  .carousel-indicators .active {
+    background-color: #fff; /* Color of the active indicator */
+  }
